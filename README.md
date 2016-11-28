@@ -1,0 +1,1 @@
+I am adding text to this “read me” to practice with github, and to learn how to use it.  
